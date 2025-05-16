@@ -5,7 +5,7 @@ Este proyecto implementa una solución completa para monitorear errores en los l
 ---
 
 ## 📦 Estructura del Proyecto
-
+.
 ├── lambda_source/
 │ └── log-monitor.py # Código fuente de la Lambda
 ├── lambda_layer_requests.zip # Paquete con la librería requests (para Slack)
